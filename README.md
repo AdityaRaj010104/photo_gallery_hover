@@ -20,6 +20,9 @@ This is a simple gallery website showcasing a collection of images. Each image i
 - HTML5
 - CSS3
 
+https://github.com/AdityaRaj010104/photo_gallery_hover/assets/157631868/56f237e0-866d-4361-9d07-b646e7050ee8
+
+
 
 ## License
 
